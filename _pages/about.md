@@ -12,8 +12,6 @@ I am now a first-year Ph.D student from [SmartLab](https://hkustsmartlab.netlify
 
 # News
 
-***
-
 * 2023.07 - One research paper about Video Temporal Grounding is accepted by ICCV 2023.
 * 2023.06 - Obtained master's degree from Tsinghua University.
 * 2022.11 - One research paper about Multi-Label Classification is accepted by AAAI 2023.
@@ -22,15 +20,11 @@ I am now a first-year Ph.D student from [SmartLab](https://hkustsmartlab.netlify
 
 # Education
 
-***
-
 * B.S. in Automation, Hefei University of Technology, 2016-2020
 * M.S. in Artificial Intelligence, Tsinghua University, 2020-2023
 * Ph.D in CSE, The Hong Kong University of Science and Technology, 2023-
 
 # Awards
-
-***
 
 * 2023.08, Stars of Tomorrow Internship Program, Microsoft Research Asia.
 * 2023.08, RedBird PhD Award, Hong Kong University of Science and Technology.
@@ -41,8 +35,6 @@ I am now a first-year Ph.D student from [SmartLab](https://hkustsmartlab.netlify
 * 2017.12, National Scholarship.
 
 # Internship
-
-***
 
 * 2023.01-2023.08, Scientific Foundation Models, Microsoft Research Asia.
 * 2021.07-2023.01, YouTu Lab, Tencent.
