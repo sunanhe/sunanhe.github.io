@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Sunan He"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student in HKUST"
   location         : "HongKong, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=1DFuPZoAAAAJ&hl=zh-CN"
+  email            : "sunan.he@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
