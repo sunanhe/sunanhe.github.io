@@ -45,9 +45,13 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 
 <div class="news-list">
   <p><span>2026.08</span> Our work on <a href="https://www.nature.com/articles/s41551-026-01764-x">ConceptCLIP</a> was published in <em>Nature Biomedical Engineering</em>.</p>
+  <p><span>2026.07</span> Our survey on <a href="https://doi.org/10.1109/RBME.2026.3704162">agentic AI in biomedicine</a> was published online in <em>IEEE Reviews in Biomedical Engineering</em>.</p>
   <p><span>2026.07</span> HKUST <a href="https://hkust.edu.hk/news/hkust-develops-novel-ai-framework-enabling-efficient-collaboration-between-generalist-and">featured our Generalist–Specialist Collaboration framework</a> for medical AI.</p>
+  <p><span>2026.06</span> <a href="https://www.nature.com/articles/s41467-026-73986-1">UniBiomed</a> was published in <em>Nature Communications</em>.</p>
   <p><span>2026.05</span> Our work on <a href="https://www.nature.com/articles/s41551-026-01653-3">GSCo and MedDr</a> was published in <em>Nature Biomedical Engineering</em>.</p>
   <p><span>2026.04</span> Joined the TGT Project at JD Health as a research intern.</p>
+  <p><span>2026.02</span> Our surgical video foundation model <a href="https://www.nature.com/articles/s41746-026-02403-0">SurgVISTA</a> was published in <em>npj Digital Medicine</em>.</p>
+  <p><span>2025.12</span> <a href="https://www.nature.com/articles/s41467-025-66071-6">FreeTumor</a> was published in <em>Nature Communications</em>.</p>
   <p><span>2025.07</span> <a href="https://hkust.edu.hk/news/hkust-developed-smartcare-shifts-clinical-focus-patient-care">SmartCare began a six-month pilot</a> at the HKUST Clinic.</p>
   <p><span>2024.11</span> MedDr was featured among <a href="https://hkust.edu.hk/zh-hant/news/hkust-spearheads-four-large-ai-models-revolutionize-healthcare">four HKUST medical AI foundation models</a>.</p>
 </div>
