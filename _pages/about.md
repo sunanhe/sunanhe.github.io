@@ -76,7 +76,7 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 
 # Selected Honors
 
-* RedBird PhD Award, HKUST, 2023 and 2025
+* RedBird PhD Award, HKUST, 2023, 2025, and 2026
 * Stars of Tomorrow Internship Program, Microsoft Research Asia, 2023
 * National Scholarship, Ministry of Education, China, 2017–2019
 
