@@ -62,11 +62,11 @@ Vision–language pretraining and multi-label classification.
 
 # Professional Service
 
-Conference reviewer: CVPR 2026; NeurIPS 2026; AAAI 2026 and 2027; ACM Multimedia 2024.
+Conference reviewer: CVPR 2026; ECCV 2026; NeurIPS 2026; AAAI 2026 and 2027; ACM Multimedia 2024.
 
 # Honors
 
-* RedBird PhD Award, HKUST, 2023 and 2025
+* RedBird PhD Award, HKUST, 2023, 2025, and 2026
 * Stars of Tomorrow Internship Program, Microsoft Research Asia, 2023
 * Second-Class Scholarship, Tsinghua University, 2021
 * National Scholarship, Ministry of Education, China, 2017–2019
