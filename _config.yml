@@ -10,7 +10,7 @@ locale                   : "cn-HK"
 title                    : "Sunan He"
 title_separator          : "-"
 name                     : &name "Sunan He"
-description              : &description "PhD Student in HKUST"
+description              : &description "Medical AI researcher working on multimodal foundation models and agentic clinical systems"
 url                      : https://sunanhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunanhe/sunanhe.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Sunan He"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in HKUST"
-  location         : "HongKong, China"
-  employer         :
+  bio              : "Ph.D. Candidate at HKUST · Medical Multimodal Foundation Models · Agentic Clinical Systems"
+  location         : "Hong Kong"
+  employer         : "HKUST"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1DFuPZoAAAAJ&hl=zh-CN"
   email            : "sunan.he@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://sunanhe.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :

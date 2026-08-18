@@ -39,3 +39,67 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Personal research profile */
+.profile-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.highlight-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.highlight-card {
+  border: 1px solid #d9e2ec;
+  border-radius: 0.65rem;
+  padding: 1rem 1.05rem;
+  background: #f8fbff;
+  box-shadow: 0 0.15rem 0.5rem rgba(26, 54, 93, 0.06);
+}
+
+.highlight-card h3 {
+  margin: 0.35rem 0 0.55rem;
+  font-size: 1.05rem;
+}
+
+.highlight-card p {
+  margin: 0.45rem 0;
+  font-size: 0.92rem;
+}
+
+.highlight-kicker {
+  color: #4267a9;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+}
+
+.news-list p {
+  display: grid;
+  grid-template-columns: 5.1rem 1fr;
+  gap: 0.75rem;
+  margin: 0.6rem 0;
+}
+
+.news-list span {
+  color: #4267a9;
+  font-weight: 700;
+}
+
+@media (max-width: 36rem) {
+  .news-list p {
+    display: block;
+  }
+
+  .news-list span {
+    display: block;
+    margin-bottom: 0.1rem;
+  }
+}
