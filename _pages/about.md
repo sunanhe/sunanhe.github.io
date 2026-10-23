@@ -68,7 +68,25 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 
 ## Professional Service
 
-Conference reviewer: CVPR 2026 (Outstanding Reviewer); ECCV 2026; NeurIPS 2026; AAAI 2026 and 2027; ACM Multimedia 2024.
+<div class="service-group">
+  <h3>Conference Reviewer</h3>
+  <ul class="service-list service-conferences">
+    <li><span>CVPR</span><span>2026 <span class="service-note">(Outstanding Reviewer)</span></span></li>
+    <li><span>ECCV</span><span>2026</span></li>
+    <li><span>NeurIPS</span><span>2026</span></li>
+    <li><span>AAAI</span><span>2026, 2027</span></li>
+    <li><span>ACM Multimedia</span><span>2024</span></li>
+  </ul>
+</div>
+<div class="service-group">
+  <h3>Journal Reviewer</h3>
+  <ul class="service-list">
+    <li>IEEE Transactions on Medical Imaging <span class="service-note">(TMI)</span></li>
+    <li>Neural Networks <span class="service-note">(NN)</span></li>
+    <li>IEEE Transactions on Circuits and Systems for Video Technology <span class="service-note">(TCSVT)</span></li>
+    <li>Pattern Recognition</li>
+  </ul>
+</div>
 
 ## Selected Honors
 
