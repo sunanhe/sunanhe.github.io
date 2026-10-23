@@ -17,7 +17,6 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 
 <nav class="profile-actions" aria-label="Profile links">
   <a href="/publications/">Selected publications</a>
-  <a href="/cv/">Curriculum vitae</a>
   <a href="https://github.com/sunanhe">GitHub</a>
 </nav>
 
@@ -54,12 +53,9 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 
 ## Education
 
-* **Ph.D. in Computer Science and Engineering**, HKUST, 2023–Present<br>
-  Advisor: Prof. Hao Chen · GPA: 3.857/4.3
-* **M.E. in Artificial Intelligence**, Tsinghua University, 2020–2023<br>
-  GPA: 4.0/4.0 · Rank: 1/112
-* **B.S. in Automation**, Hefei University of Technology, 2016–2020<br>
-  GPA: 3.67/4.0 · Rank: 1/183
+* **Ph.D. in Computer Science and Engineering**, HKUST, 2023–Present
+* **M.E. in Artificial Intelligence**, Tsinghua University, 2020–2023
+* **B.S. in Automation**, Hefei University of Technology, 2016–2020
 
 ## Experience
 
@@ -70,11 +66,12 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 * **Researcher, YouTu Lab, Tencent**, Jul 2021–Jan 2023<br>
   Vision–language pretraining and multi-label classification.
 
+## Professional Service
+
+Conference reviewer: CVPR 2026 (Outstanding Reviewer); ECCV 2026; NeurIPS 2026; AAAI 2026 and 2027; ACM Multimedia 2024.
+
 ## Selected Honors
 
-* **CVPR 2026 Outstanding Reviewer**
 * RedBird PhD Award, HKUST, 2023, 2025, and 2026
 * Stars of Tomorrow Internship Program, Microsoft Research Asia, 2023
 * National Scholarship, Ministry of Education, China, 2017–2019
-
-<small>* denotes equal contribution in publication author lists.</small>

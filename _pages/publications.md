@@ -6,7 +6,7 @@ author_profile: true
 clean_profile: true
 ---
 
-For a complete and current list, see my [Google Scholar profile](https://scholar.google.com/citations?user=1DFuPZoAAAAJ&hl=en). \* denotes equal contribution.
+For a complete and current list, see my [Google Scholar profile](https://scholar.google.com/citations?user=1DFuPZoAAAAJ&hl=en).
 
 ## First- and Co-first-author Publications
 
