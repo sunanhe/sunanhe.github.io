@@ -34,6 +34,8 @@ Third-party advertisers may also place and read cookies on your browser and/or u
 
 If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
-#### Google Analytics
+#### Statable Visitor Statistics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+The homepage uses Statable to display a visitor map and collect traffic statistics, including approximate visitor locations, pageviews, referral sources, browser and device information. Its script also collects interaction statistics such as engagement time, scroll depth, outbound-link clicks and file downloads.
+
+Aggregate traffic and interaction statistics are available in the [public statistics dashboard](https://statable.com/share/j4v0D8B116). See [Statable's Privacy Policy](https://statable.com/privacy) for details about its data handling.

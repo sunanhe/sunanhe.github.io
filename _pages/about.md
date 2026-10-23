@@ -93,3 +93,10 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 * RedBird PhD Award, HKUST, 2023, 2025, and 2026
 * Stars of Tomorrow Internship Program, Microsoft Research Asia, 2023
 * National Scholarship, Ministry of Education, China, 2017–2019
+
+<section class="visitor-map-section" aria-label="Visitor locations">
+  <div class="visitor-map" id="visitor-map">
+    <script src="https://statable.com/js/j4v0D8B116/t/mw.js" data-id="3440734" data-period="90d" data-theme="light" data-primary-color="#6D91B5" data-ocean-color="#FFFFFF" data-outer-radius="0" data-show-stats="false"></script>
+  </div>
+  <p class="visitor-map-links"><a href="https://statable.com/share/j4v0D8B116">Visitor statistics</a> · <a href="/terms/#statable-visitor-statistics">Privacy</a></p>
+</section>

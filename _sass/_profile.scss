@@ -144,3 +144,21 @@
     .service-conferences li { grid-template-columns: 7.5rem minmax(0, 1fr); }
   }
 }
+
+/* A quiet, responsive visitor map; vendor attribution remains visible. */
+.clean-profile .visitor-map-section {
+  margin: 3rem auto 0;
+  max-width: 480px;
+}
+
+.clean-profile .visitor-map {
+  width: 100%;
+  height: 240px;
+}
+
+.clean-profile .visitor-map-links {
+  margin: 0.6rem 0 0;
+  text-align: center;
+  font-size: 0.7rem;
+  color: #606975;
+}
