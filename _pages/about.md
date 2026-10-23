@@ -3,60 +3,56 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+clean_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science and Engineering at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by [Prof. Hao Chen](https://smartlab.cse.ust.hk/). My research focuses on **medical multimodal foundation models, explainable medical AI, and agentic clinical systems**. I am particularly interested in combining generalist models, specialist models, tools, and structured evidence to build reliable systems for multimodal medical-image understanding and long-horizon clinical workflows.
+I am a Ph.D. candidate in Computer Science and Engineering at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by [Prof. Hao Chen](https://smartlab.cse.ust.hk/). My research focuses on **medical multimodal foundation models, explainable medical AI, and agentic clinical systems**.
+
+I am particularly interested in combining generalist models, specialist models, tools, and structured evidence to build reliable systems for multimodal medical-image understanding and long-horizon clinical workflows.
 
 Since April 2026, I have also been a research intern with the **TGT Project at JD Health**, working on medical multimodal large language models and agent Harness systems.
 
-<div class="profile-actions">
-  <a class="btn btn--primary" href="/publications/">Selected publications</a>
-  <a class="btn btn--inverse" href="/cv/">Curriculum vitae</a>
-  <a class="btn btn--inverse" href="https://github.com/sunanhe">GitHub</a>
-</div>
+<nav class="profile-actions" aria-label="Profile links">
+  <a href="/publications/">Selected publications</a>
+  <a href="/cv/">Curriculum vitae</a>
+  <a href="https://github.com/sunanhe">GitHub</a>
+</nav>
 
-# Research Highlights
+## Research Highlights
 
-<div class="highlight-grid">
-  <article class="highlight-card">
-    <span class="highlight-kicker">Nature Biomedical Engineering · 2026</span>
+<div class="research-list">
+  <article class="research-item">
+    <span class="research-venue">Nature Biomedical Engineering · 2026</span>
     <h3><a href="https://www.nature.com/articles/s41551-026-01653-3">Generalist–Specialist Collaboration</a></h3>
     <p>Co-first author of GSCo and MedDr, a framework that combines a medical generalist foundation model with lightweight specialist models for diagnosis and report generation.</p>
     <p><a href="https://github.com/sunanhe/MedDr">Code and models</a> · <a href="https://hkust.edu.hk/news/hkust-develops-novel-ai-framework-enabling-efficient-collaboration-between-generalist-and">HKUST feature</a></p>
   </article>
-  <article class="highlight-card">
-    <span class="highlight-kicker">Nature Biomedical Engineering · 2026</span>
+  <article class="research-item">
+    <span class="research-venue">Nature Biomedical Engineering · 2026</span>
     <h3><a href="https://www.nature.com/articles/s41551-026-01764-x">Explainable Biomedical Foundation Model</a></h3>
     <p>Co-first author of ConceptCLIP, built with 23 million image–text–concept triplets and evaluated across 78 datasets and 10 imaging modalities.</p>
     <p><a href="https://github.com/JerrryNie/ConceptCLIP">Code and models</a></p>
   </article>
-  <article class="highlight-card">
-    <span class="highlight-kicker">Clinical translation</span>
-    <h3><a href="https://www.smartcare.hk/">SmartCare</a></h3>
-    <p>Medical foundation-model research translated into an end-to-end AI platform for triage, consultation support, documentation, and medical education.</p>
-    <p><a href="https://hkust.edu.hk/news/hkust-developed-smartcare-shifts-clinical-focus-patient-care">HKUST Clinic pilot</a></p>
-  </article>
 </div>
 
-# News
+## News
 
 <div class="news-list">
-  <p><span>2026.08</span> Our work on <a href="https://www.nature.com/articles/s41551-026-01764-x">ConceptCLIP</a> was published in <em>Nature Biomedical Engineering</em>.</p>
-  <p><span>2026.07</span> Our survey on <a href="https://doi.org/10.1109/RBME.2026.3704162">agentic AI in biomedicine</a> was published online in <em>IEEE Reviews in Biomedical Engineering</em>.</p>
-  <p><span>2026.07</span> HKUST <a href="https://hkust.edu.hk/news/hkust-develops-novel-ai-framework-enabling-efficient-collaboration-between-generalist-and">featured our Generalist–Specialist Collaboration framework</a> for medical AI.</p>
-  <p><span>2026.06</span> <a href="https://www.nature.com/articles/s41467-026-73986-1">UniBiomed</a> was published in <em>Nature Communications</em>.</p>
-  <p><span>2026.05</span> Our work on <a href="https://www.nature.com/articles/s41551-026-01653-3">GSCo and MedDr</a> was published in <em>Nature Biomedical Engineering</em>.</p>
-  <p><span>2026.04</span> Joined the TGT Project at JD Health as a research intern.</p>
-  <p><span>2026.02</span> Our surgical video foundation model <a href="https://www.nature.com/articles/s41746-026-02403-0">SurgVISTA</a> was published in <em>npj Digital Medicine</em>.</p>
-  <p><span>2025.12</span> <a href="https://www.nature.com/articles/s41467-025-66071-6">FreeTumor</a> was published in <em>Nature Communications</em>.</p>
-  <p><span>2025.07</span> <a href="https://hkust.edu.hk/news/hkust-developed-smartcare-shifts-clinical-focus-patient-care">SmartCare began a six-month pilot</a> at the HKUST Clinic.</p>
-  <p><span>2024.11</span> MedDr was featured among <a href="https://hkust.edu.hk/zh-hant/news/hkust-spearheads-four-large-ai-models-revolutionize-healthcare">four HKUST medical AI foundation models</a>.</p>
+  <div class="news-item"><time datetime="2026-08">2026.08</time><p>Our work on <a href="https://www.nature.com/articles/s41551-026-01764-x">ConceptCLIP</a> was published in <em>Nature Biomedical Engineering</em>.</p></div>
+  <div class="news-item"><time datetime="2026-07">2026.07</time><p>Our survey on <a href="https://doi.org/10.1109/RBME.2026.3704162">agentic AI in biomedicine</a> was published online in <em>IEEE Reviews in Biomedical Engineering</em>.</p></div>
+  <div class="news-item"><time datetime="2026-07">2026.07</time><p>HKUST <a href="https://hkust.edu.hk/news/hkust-develops-novel-ai-framework-enabling-efficient-collaboration-between-generalist-and">featured our Generalist–Specialist Collaboration framework</a> for medical AI.</p></div>
+  <div class="news-item"><time datetime="2026-06">2026.06</time><p><a href="https://www.nature.com/articles/s41467-026-73986-1">UniBiomed</a> was published in <em>Nature Communications</em>.</p></div>
+  <div class="news-item"><time datetime="2026-05">2026.05</time><p>Our work on <a href="https://www.nature.com/articles/s41551-026-01653-3">GSCo and MedDr</a> was published in <em>Nature Biomedical Engineering</em>.</p></div>
+  <div class="news-item"><time datetime="2026-04">2026.04</time><p>Joined the TGT Project at JD Health as a research intern.</p></div>
+  <div class="news-item"><time datetime="2026-02">2026.02</time><p>Our surgical video foundation model <a href="https://www.nature.com/articles/s41746-026-02403-0">SurgVISTA</a> was published in <em>npj Digital Medicine</em>.</p></div>
+  <div class="news-item"><time datetime="2025-12">2025.12</time><p><a href="https://www.nature.com/articles/s41467-025-66071-6">FreeTumor</a> was published in <em>Nature Communications</em>.</p></div>
+  <div class="news-item"><time datetime="2024-11">2024.11</time><p>MedDr was featured among <a href="https://hkust.edu.hk/zh-hant/news/hkust-spearheads-four-large-ai-models-revolutionize-healthcare">four HKUST medical AI foundation models</a>.</p></div>
 </div>
 
-# Education
+## Education
 
 * **Ph.D. in Computer Science and Engineering**, HKUST, 2023–Present<br>
   Advisor: Prof. Hao Chen · GPA: 3.857/4.3
@@ -65,7 +61,7 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 * **B.S. in Automation**, Hefei University of Technology, 2016–2020<br>
   GPA: 3.67/4.0 · Rank: 1/183
 
-# Experience
+## Experience
 
 * **Research Intern, TGT Project, JD Health**, Apr 2026–Present<br>
   Medical multimodal large language models and agent Harness systems.
@@ -74,8 +70,9 @@ Since April 2026, I have also been a research intern with the **TGT Project at J
 * **Researcher, YouTu Lab, Tencent**, Jul 2021–Jan 2023<br>
   Vision–language pretraining and multi-label classification.
 
-# Selected Honors
+## Selected Honors
 
+* **CVPR 2026 Outstanding Reviewer**
 * RedBird PhD Award, HKUST, 2023, 2025, and 2026
 * Stars of Tomorrow Internship Program, Microsoft Research Asia, 2023
 * National Scholarship, Ministry of Education, China, 2017–2019
